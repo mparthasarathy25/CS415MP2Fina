@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/madhav/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/NewLevelMP2.umap",
+				"/Users/madhav/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Pursuer_AIController.uasset",
+				"/Users/madhav/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/BP_Pursuer.uasset",
+				"/Users/madhav/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/EAIState.uasset",
+				"/Users/madhav/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/madhav/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/HealthBar.uasset",
+				"/Users/madhav/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/RestartGame.uasset",
+				"/Users/madhav/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/HealthPickup.uasset",
+				"/Users/madhav/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Score.uasset",
+				"/Users/madhav/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Collectible.uasset"
+			]
+		}
+	]
+}
